@@ -117,3 +117,4 @@ Some **Phantom Blade Zero missable quests** are best checked before advancing ou
 ### Offline Windows quest notes
 
 A **Phantom Blade Zero quest tracker** is most helpful when it serves as a durable list of your own decisions and findings. Download the Windows ZIP using the direct link near the top of this README, then use the companion to organize the quests you still want to finish.
+ 
